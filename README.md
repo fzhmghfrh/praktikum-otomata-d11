@@ -1,4 +1,4 @@
-# praktikum-komnum-d08
+# praktikum-otomata-d11
 
 | Nama                       | NRP        |
 | ---------------------------| -----------|
